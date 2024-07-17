@@ -1,6 +1,6 @@
 # Working with Multiple Input Linear Models to Make Predictions
 Overview
-This repository contains a case study that demonstrates working with multiple input linear models for predictions. I use randomly generated data and the statsmodels library in Python to fit linear regression models, interpret the results, and visualize the relationships between inputs and outputs. It uses two input features to interpret prediction results by generating random data, fitting a linear regression model using the statsmodels interface, and interpreting the results through coefficient summaries and specialized graphics.
+This repository contains a case study that demonstrates working with multiple input linear models for predictions. I use randomly generated data and the statsmodels library in Python to fit linear regression models, interpret the results and visualize the relationships between inputs and outputs. It uses two input features to interpret prediction results by generating random data, fitting a linear regression model using the statsmodels interface, and interpreting the results through coefficient summaries and specialized graphics.
 
 ## Real-World Applications
 - Economics: Predicting economic indicators such as GDP, inflation, and unemployment rates based on multiple inputs like interest rates, consumer spending, and investment levels.
@@ -35,7 +35,7 @@ To explore the case study, you can follow these steps:
 
 
 ## Importing Modules
-The necessary Python modules for this study include numpy, pandas, matplotlib, seaborn, and statsmodels.
+The necessary Python modules for this study include NumPy, Pandas, Matplotlib, Seaborn, and Statsmodels.
 
 ## Setting Regression Coefficients
 The model uses two inputs, x1 and x2, with specified regression coefficients (b0 = -0.25, b1 = 1.95, b2 = 0.2). These coefficients represent the relationship between the predictor variables and the dependent variable.
@@ -71,4 +71,8 @@ Specialized statsmodels graphics are used to create plots for prediction and int
 ## Conclusion
 The case study demonstrates the importance of considering all inputs in a linear model and using specialized visualization tools to interpret the effects of multiple inputs on the output.
 
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
