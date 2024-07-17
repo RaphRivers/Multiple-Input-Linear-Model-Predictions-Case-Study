@@ -17,7 +17,7 @@ NumPy, Pandas, Matplotlib, Seaborn, Statsmodels
 ## Usage
 To explore the case study, you can follow these steps:
 1. Clone the repository:
-  git clone https://github.com/RaphRivers/multiple-input-linear-model-case-study.git
+  git clone https://github.com/RaphRivers/Multiple-Input-Linear-Model-Predictions-Case-Study.git
   cd multiple-input-linear-model-case-study
 2. Open the Jupyter Notebook
 3. Run the notebook cells to see the step-by-step process of generating data, fitting the model, and making predictions.
