@@ -1,5 +1,5 @@
 # Working with Multiple Input Linear Models to Make Predictions
-Overview
+## Overview
 This repository contains a case study that demonstrates working with multiple input linear models for predictions. I use randomly generated data and the statsmodels library in Python to fit linear regression models, interpret the results and visualize the relationships between inputs and outputs. It uses two input features to interpret prediction results by generating random data, fitting a linear regression model using the statsmodels interface, and interpreting the results through coefficient summaries and specialized graphics.
 
 ## Real-World Applications
